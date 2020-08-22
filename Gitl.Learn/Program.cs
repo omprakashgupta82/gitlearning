@@ -10,7 +10,8 @@ namespace Gitl.Learn
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Application started!");
+            Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
