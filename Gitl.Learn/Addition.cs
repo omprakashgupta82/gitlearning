@@ -17,6 +17,11 @@ namespace Gitl.Learn
         {
             return a + b;
         }
+        
+        private int Plus(int a, int b)
+        {
+            return a + b;
+        }
 
         private decimal AddDecimals(decimal a, decimal b)
         {
