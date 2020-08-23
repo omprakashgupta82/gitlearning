@@ -13,5 +13,10 @@ namespace Gitl.Learn
             Console.WriteLine("Hello World!");
             Console.ReadLine();
         }
+
+        private string Display()
+        {
+            return "Display";
+        }
     }
 }
