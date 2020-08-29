@@ -27,10 +27,5 @@ namespace Gitl.Learn
         {
             return a + b;
         }
-
-        private int Plus1(int a, int b)
-        {
-            return a + b;
-        }
     }
 }
