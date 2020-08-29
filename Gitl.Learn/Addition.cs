@@ -30,7 +30,7 @@ namespace Gitl.Learn
         
         private decimal AddDecimals(decimal a, decimal b, decimal c)
         {
-            return a + b;
+            return a + b + c;
         }
     }
 }
